@@ -1,0 +1,15 @@
+.container {
+    background-color: red;
+}
+
+.nav {
+    background-color: aquamarine;
+}
+
+.nav__brand {
+    background-color: yellow;
+}
+
+.nav__list {
+    background-color: bisque;
+}
