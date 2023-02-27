@@ -7,7 +7,7 @@ export const NavBar = () => {
         <div className="container">
             <nav className="nav">
                 <div className="nav__brand">
-                    <a className="nav__link" href="#">Brodi, Indumentaria Masculina</a>
+                    <a className="nav__link" href="#">Todos nuestros productos</a>
                 </div>
                 <ul className="nav__list">
                 <li> 

@@ -5,8 +5,8 @@ import ItemListContainer from './components/ItemListContainer/indexILC';
 function App() {
   return (
     <>
-    <NavBar />
     <ItemListContainer />
+    <NavBar />    
     </>
   );
 }
