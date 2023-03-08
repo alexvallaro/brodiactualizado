@@ -8,7 +8,7 @@ import remehouse from "../assets/img/house.jpg";
 
 
 
-const products = [
+const Products = [
 {   id:1,
     nombre: "Remera Techno" , 
     tipo: "Remera manga corta para fiestas electronicas", 
@@ -53,7 +53,7 @@ const products = [
 },
 ]
 
-export default products;
+export default Products;
 
 
 // aca van los arrays de los productos

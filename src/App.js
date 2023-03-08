@@ -2,7 +2,7 @@ import './App.css';
 import React, {useState, UseEffect} from "react";
 import second, { NavBar } from "./components/Navbar";
 import ItemListContainer from './components/ItemListContainer/indexILC';
-//import { products } from './components/Products/indexP';
+//import Item from './components/Item/Item';
 
 
 function App() {
@@ -16,3 +16,5 @@ function App() {
 }
 
 export default App;
+
+//<Item />  
