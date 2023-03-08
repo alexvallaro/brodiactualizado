@@ -10,4 +10,7 @@ export const ItemListContainer = () => {
     );
 }
 
+// Aca va el useEffect (api) y el estado.
+//
+
 export default ItemListContainer;
